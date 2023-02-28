@@ -62,9 +62,6 @@
   <a href="https://www.linkedin.com/in/van-viet" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="leviet-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="leviet-instagram" />
-  </a>
   <a href="mailto:lviet456@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="leviet-email" />
   </a>
